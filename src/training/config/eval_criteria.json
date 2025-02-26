@@ -1,0 +1,9 @@
+[
+    {"key": "accessibility", "weight": 0.2},
+    {"key": "responsive", "weight": 0.15},
+    {"key": "security", "weight": 0.15},
+    {"key": "performance", "weight": 0.1},
+    {"key": "semantic", "weight": 0.1},
+    {"key": "maintainable", "weight": 0.1},
+    {"key": "modern design", "weight": 0.2}
+]
