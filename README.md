@@ -41,6 +41,14 @@
 ![Issues](https://img.shields.io/github/issues/yourusername/reno-vans?color=red)
 ![Stars](https://img.shields.io/github/stars/yourusername/reno-vans?style=social)
 
+<!-- AI/ML & Programming Languages -->
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFAC00?style=for-the-badge&logo=huggingface&logoColor=black)
+![SafeTensors](https://img.shields.io/badge/SafeTensors-76B900?style=for-the-badge&logo=pytorch&logoColor=white)
+
 # AI Ensemble for Webpage Creation Excellence
 ## A Framework for Model Integration in Webpage Development
 
