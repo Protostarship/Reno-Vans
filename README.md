@@ -21,6 +21,7 @@
   ![Synthetic Data](https://img.shields.io/badge/Data-Synthetic_Generation-green)
   ![Ensemble](https://img.shields.io/badge/Architecture-Ensemble_Refinement-blue)
   ![Zero-Shot](https://img.shields.io/badge/Capability-Zero--Shot_Learning-teal)
+  ![Cross-Alignment](https://img.shields.io/badge/Models-Cross--Alignment-8A2BE2)
 
   <!-- Algorithms -->
   ![Logistic Regression](https://img.shields.io/badge/Algorithm-Logistic_Regression-informational)
