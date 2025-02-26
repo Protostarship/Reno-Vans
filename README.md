@@ -28,6 +28,7 @@
   ![Naive Bayes](https://img.shields.io/badge/Algorithm-Naive_Bayes-informational)
   ![Adam](https://img.shields.io/badge/Optimizer-Adam-informational)
   ![PPO](https://img.shields.io/badge/Algorithm-Proximal_Policy_Optimization-informational)
+  ![TF-IDF](https://img.shields.io/badge/Feature%20Engineering-TF--IDF-blue)
 
   <!-- Feature Badges -->
   ![Web Development](https://img.shields.io/badge/Web_Development-HTML/CSS/JS-orange)
