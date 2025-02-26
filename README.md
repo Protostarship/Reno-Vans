@@ -50,6 +50,7 @@
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFAC00?style=for-the-badge&logo=huggingface&logoColor=black)
   ![SafeTensors](https://img.shields.io/badge/SafeTensors-76B900?style=for-the-badge&logo=pytorch&logoColor=white)
+  ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 </div>
 
 ---
