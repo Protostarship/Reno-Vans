@@ -1,53 +1,58 @@
 # Reno-Vans
 > __"Quaestio Tua, Scientiam Renovans."__
 
-<!-- Project Status Badges -->
-![Status](https://img.shields.io/badge/Status-In_Development-yellow)
-![Version](https://img.shields.io/badge/Version-0.1.0-blue)
-![License](https://img.shields.io/badge/License-CC_BY--NC--ND-lightgrey)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-In_Development-yellow)
-![Format](https://img.shields.io/badge/Format-SafeTensors-orange)
+---
+<div align="center">
+  
+  ![Status](https://img.shields.io/badge/Status-In_Development-yellow)
+  ![Version](https://img.shields.io/badge/Version-0.1.0-blue)
+  ![License](https://img.shields.io/badge/License-CC_BY--NC--ND-lightgrey)
+  ![HuggingFace](https://img.shields.io/badge/HuggingFace-In_Development-yellow)
+  ![Format](https://img.shields.io/badge/Format-SafeTensors-orange)
 
-<!-- Model Badges -->
-![StarCoder2](https://img.shields.io/badge/StarCoder2--3B-Enabled-success)
-![Llama3.1](https://img.shields.io/badge/Llama--3.1--8B-Enabled-success)
-![CodeGemma](https://img.shields.io/badge/CodeGemma--7B-RLAIF-blueviolet)
+  <!-- Model Badges -->
+  ![StarCoder2](https://img.shields.io/badge/StarCoder2--3B-Enabled-success)
+  ![Llama3.1](https://img.shields.io/badge/Llama--3.1--8B-Enabled-success)
+  ![CodeGemma](https://img.shields.io/badge/CodeGemma--7B-RLAIF-blueviolet)
 
-<!-- Paradigms -->
-![RLAIF](https://img.shields.io/badge/Learning-RLAIF-blueviolet)
-![RLHF](https://img.shields.io/badge/Learning-RLHF_(Optional)-lightpurple)
-![Synthetic Data](https://img.shields.io/badge/Data-Synthetic_Generation-green)
-![Ensemble](https://img.shields.io/badge/Architecture-Ensemble_Refinement-blue)
-![Zero-Shot](https://img.shields.io/badge/Capability-Zero--Shot_Learning-teal)
+  <!-- Paradigms -->
+  ![RLAIF](https://img.shields.io/badge/Learning-RLAIF-blueviolet)
+  ![RLHF](https://img.shields.io/badge/Learning-RLHF_(Optional)-lightpurple)
+  ![Synthetic Data](https://img.shields.io/badge/Data-Synthetic_Generation-green)
+  ![Ensemble](https://img.shields.io/badge/Architecture-Ensemble_Refinement-blue)
+  ![Zero-Shot](https://img.shields.io/badge/Capability-Zero--Shot_Learning-teal)
 
-<!-- Algorithms -->
-![Logistic Regression](https://img.shields.io/badge/Algorithm-Logistic_Regression-informational)
-![KNN](https://img.shields.io/badge/Algorithm-K--Nearest_Neighbors-informational)
-![Naive Bayes](https://img.shields.io/badge/Algorithm-Naive_Bayes-informational)
-![Adam](https://img.shields.io/badge/Optimizer-Adam-informational)
-![PPO](https://img.shields.io/badge/Algorithm-Proximal_Policy_Optimization-informational)
+  <!-- Algorithms -->
+  ![Logistic Regression](https://img.shields.io/badge/Algorithm-Logistic_Regression-informational)
+  ![KNN](https://img.shields.io/badge/Algorithm-K--Nearest_Neighbors-informational)
+  ![Naive Bayes](https://img.shields.io/badge/Algorithm-Naive_Bayes-informational)
+  ![Adam](https://img.shields.io/badge/Optimizer-Adam-informational)
+  ![PPO](https://img.shields.io/badge/Algorithm-Proximal_Policy_Optimization-informational)
 
-<!-- Feature Badges -->
-![Web Development](https://img.shields.io/badge/Web_Development-HTML/CSS/JS-orange)
-![AI Ensemble](https://img.shields.io/badge/AI-Ensemble_Architecture-lightblue)
+  <!-- Feature Badges -->
+  ![Web Development](https://img.shields.io/badge/Web_Development-HTML/CSS/JS-orange)
+  ![AI Ensemble](https://img.shields.io/badge/AI-Ensemble_Architecture-lightblue)
 
-<!-- Performance Metrics -->
-![Code Success](https://img.shields.io/badge/Code_Success-Under_Evaluation-yellow)
-![UI/UX Quality](https://img.shields.io/badge/UI/UX_Quality-Under_Evaluation-yellow)
-![WCAG](https://img.shields.io/badge/Accessibility-WCAG_AA-blue)
+  <!-- Performance Metrics -->
+  ![Code Success](https://img.shields.io/badge/Code_Success-Under_Evaluation-yellow)
+  ![UI/UX Quality](https://img.shields.io/badge/UI/UX_Quality-Under_Evaluation-yellow)
+  ![WCAG](https://img.shields.io/badge/Accessibility-WCAG_AA-blue)
 
-<!-- Social/Community -->
-![Contributions](https://img.shields.io/badge/Contributions-Welcome-brightgreen)
-![Issues](https://img.shields.io/github/issues/yourusername/reno-vans?color=red)
-![Stars](https://img.shields.io/github/stars/yourusername/reno-vans?style=social)
+  <!-- Social/Community -->
+  ![Contributions](https://img.shields.io/badge/Contributions-Welcome-brightgreen)
+  ![Issues](https://img.shields.io/github/issues/yourusername/reno-vans?color=red)
+  ![Stars](https://img.shields.io/github/stars/yourusername/reno-vans?style=social)
 
-<!-- AI/ML & Programming Languages -->
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFAC00?style=for-the-badge&logo=huggingface&logoColor=black)
-![SafeTensors](https://img.shields.io/badge/SafeTensors-76B900?style=for-the-badge&logo=pytorch&logoColor=white)
+  <!-- AI/ML & Programming Languages -->
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFAC00?style=for-the-badge&logo=huggingface&logoColor=black)
+  ![SafeTensors](https://img.shields.io/badge/SafeTensors-76B900?style=for-the-badge&logo=pytorch&logoColor=white)
+</div>
+
+---
 
 # AI Ensemble for Webpage Creation Excellence
 ## A Framework for Model Integration in Webpage Development
