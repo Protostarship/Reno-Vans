@@ -1,11 +1,3 @@
-<div align="center">
-  <div style="position: relative; width: 100%; margin: 20px 0; overflow: hidden; border-radius: 4px;">
-    <div style="width: 100%; height: 8px; overflow: hidden; position: relative;">
-      <img src="path/to/your/pinwheel.svg" style="position: absolute; width: 100%; height: auto; top: -71px; left: 0;">
-    </div>
-  </div>
-</div>
-
 # Reno-Vans
 > __"Quaestio Tua, Scientiam Renovans."__
 
