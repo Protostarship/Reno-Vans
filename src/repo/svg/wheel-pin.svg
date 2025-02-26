@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 150">
+  <!-- Rectangle container -->
+  <rect x="0" y="0" width="400" height="150" fill="#222" rx="10" ry="10"/>
+  
+  <!-- Center point for the pinwheel - positioned to allow full edge coverage -->
+  <g transform="translate(200, 75)">
+    <!-- Rainbow Pinwheel with animation -->
+    <g>
+      <!-- Color segments with blue-purple-yellow dark gradients -->
+      <defs>
+        <!-- Gradients -->
+        <radialGradient id="grad1" cx="0.5" cy="0.5" r="0.5" fx="0.5" fy="0.5">
+          <stop offset="0%" stop-color="#4A26B6" stop-opacity="0.9"/>
+          <stop offset="100%" stop-color="#2A1566" stop-opacity="0.9"/>
+        </radialGradient>
+        
+        <radialGradient id="grad2" cx="0.5" cy="0.5" r="0.5" fx="0.5" fy="0.5">
+          <stop offset="0%" stop-color="#3458DD" stop-opacity="0.9"/>
+          <stop offset="100%" stop-color="#1A2C7D" stop-opacity="0.9"/>
+        </radialGradient>
+        
+        <radialGradient id="grad3" cx="0.5" cy="0.5" r="0.5" fx="0.5" fy="0.5">
+          <stop offset="0%" stop-color="#7045C8" stop-opacity="0.9"/>
+          <stop offset="100%" stop-color="#452791" stop-opacity="0.9"/>
+        </radialGradient>
+        
+        <radialGradient id="grad4" cx="0.5" cy="0.5" r="0.5" fx="0.5" fy="0.5">
+          <stop offset="0%" stop-color="#DFB700" stop-opacity="0.9"/>
+          <stop offset="100%" stop-color="#8B7300" stop-opacity="0.9"/>
+        </radialGradient>
+        
+        <radialGradient id="grad5" cx="0.5" cy="0.5" r="0.5" fx="0.5" fy="0.5">
+          <stop offset="0%" stop-color="#6236D0" stop-opacity="0.9"/>
+          <stop offset="100%" stop-color="#341980" stop-opacity="0.9"/>
+        </radialGradient>
+        
+        <radialGradient id="grad6" cx="0.5" cy="0.5" r="0.5" fx="0.5" fy="0.5">
+          <stop offset="0%" stop-color="#2A75E8" stop-opacity="0.9"/>
+          <stop offset="100%" stop-color="#164599" stop-opacity="0.9"/>
+        </radialGradient>
+        
+        <radialGradient id="grad7" cx="0.5" cy="0.5" r="0.5" fx="0.5" fy="0.5">
+          <stop offset="0%" stop-color="#BD9F00" stop-opacity="0.9"/>
+          <stop offset="100%" stop-color="#776500" stop-opacity="0.9"/>
+        </radialGradient>
+        
+        <radialGradient id="grad8" cx="0.5" cy="0.5" r="0.5" fx="0.5" fy="0.5">
+          <stop offset="0%" stop-color="#5D3AC2" stop-opacity="0.9"/>
+          <stop offset="100%" stop-color="#372175" stop-opacity="0.9"/>
+        </radialGradient>
+      </defs>
+      
+      <!-- Greatly enlarged segments to reach edges of rectangle -->
+      <path d="M0,0 L210,0 A210,210 0 0,1 148.5,148.5 L0,0" fill="url(#grad1)"/>
+      <path d="M0,0 L148.5,148.5 A210,210 0 0,1 0,210 L0,0" fill="url(#grad2)"/>
+      <path d="M0,0 L0,210 A210,210 0 0,1 -148.5,148.5 L0,0" fill="url(#grad3)"/>
+      <path d="M0,0 L-148.5,148.5 A210,210 0 0,1 -210,0 L0,0" fill="url(#grad4)"/>
+      <path d="M0,0 L-210,0 A210,210 0 0,1 -148.5,-148.5 L0,0" fill="url(#grad5)"/>
+      <path d="M0,0 L-148.5,-148.5 A210,210 0 0,1 0,-210 L0,0" fill="url(#grad6)"/>
+      <path d="M0,0 L0,-210 A210,210 0 0,1 148.5,-148.5 L0,0" fill="url(#grad7)"/>
+      <path d="M0,0 L148.5,-148.5 A210,210 0 0,1 210,0 L0,0" fill="url(#grad8)"/>
+      
+      <!-- Animation with counter-clockwise rotation -->
+      <animateTransform 
+        attributeName="transform"
+        attributeType="XML"
+        type="rotate"
+        from="0"
+        to="-360"
+        dur="8s"
+        repeatCount="indefinite"
+        calcMode="spline"
+        keyTimes="0; 0.25; 0.5; 1"
+        keySplines="0.5 0 0.5 1; 0.5 0 0.5 1; 0.1 0 0.9 1"
+      />
+    </g>
+  </g>
+</svg>
