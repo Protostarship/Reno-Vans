@@ -1,7 +1,24 @@
 # Reno-Vans
 > __"Quaestio Tua, Scientiam Renovans."__
 
+### Models
+1. __Reno-Orion Nous__
+   - Naming Convention: Orion (strength/versatility) + Nous (intellect/understanding).
+   - Description:
+     - Our flagship general-purpose AI. Reno-Orion Nous combines raw processing power with deep cognitive abilities. It excels in complex reasoning, problem-solving, and handling a wide range of tasks. Think of it as a powerful and deeply intelligent partner.
+
+2. __Reno-Aquila Ingenium__
+   - Naming Convention: Aquila (vision/swiftness) + Ingenium (ingenuity/resourcefulness).
+   - Description:
+     - Optimized for analytical tasks, data processing, and rapid problem-solving. Reno-Aquila Ingenium is highly efficient and capable of finding innovative solutions. Imagine a very fast and creative problem solver, adept at extracting insights and generating novel approaches.
+
+3. __Reno-Lyra Veritas__
+   - Naming Convention: Lyra (harmony/creativity) + Veritas (truth)
+   - Description:
+     - Designed for creative tasks that require accuracy and factual grounding. Reno-Lyra Veritas excels in producing outputs that are both beautiful and correct. Consider it a creative writer or artist with the precision of a fact-checker
+
 ---
+
 <div align="center">
   
   ![Status](https://img.shields.io/badge/Status-In_Development-yellow)
@@ -773,15 +790,16 @@ The system implements a closed-loop learning mechanism based on its own evaluati
    - Preference model achieves >90% prediction accuracy
    - User satisfaction scores show continuous improvement trend
 
+---
 
 ### Let us know!
----
 <!-- Direct Report via Email -->
 ![Report Issues](https://img.shields.io/badge/Report_Issues-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:relay.arbiter303@gmail.com)
 <!-- Contact & Support Badges -->
 ![Contact](https://img.shields.io/badge/Contact-relay.arbiter303%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)
 
 ---
+
 <!-- GitHub Repository Link -->
 ![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/Protostarship/reno-vans)
 <!-- Contact Options -->
@@ -789,5 +807,6 @@ The system implements a closed-loop learning mechanism based on its own evaluati
 ![Report Issues](https://img.shields.io/badge/Report-Issues-yellow?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/Protostarship/reno-vans/issues)
 
 ---
+
 <!-- Project Branding -->
 ![Reno-Vans](https://img.shields.io/badge/Reno--Vans-AI_Ensemble_for_Webpage_Creation-4B0082?style=for-the-badge)
