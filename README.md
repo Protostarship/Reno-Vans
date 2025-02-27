@@ -42,9 +42,9 @@
 
   <!-- Social/Community -->
   ![Contributions](https://img.shields.io/badge/Contributions-Welcome-brightgreen)
-  ![Issues](https://img.shields.io/github/issues/yourusername/reno-vans?color=red)
-  ![Stars](https://img.shields.io/github/stars/yourusername/reno-vans?style=social)
-  ![Deployment Status](https://img.shields.io/badge/Hugging_Face-In_Development-yellow&logo=huggingface&logoColor=yellow)
+  ![Issues](https://img.shields.io/github/issues/Protostarship/reno-vans?color=red)
+  ![Stars](https://img.shields.io/github/stars/Protostarship/reno-vans?style=social)
+  ![Deployment Status](https://img.shields.io/badge/Hugging_Face-In_Development-yellow)
 
   <!-- AI/ML & Programming Languages -->
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
