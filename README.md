@@ -52,6 +52,7 @@
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFAC00?style=for-the-badge&logo=huggingface&logoColor=black)
   ![SafeTensors](https://img.shields.io/badge/SafeTensors-76B900?style=for-the-badge&logo=pytorch&logoColor=white)
+  ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
   ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
   ![CUDA](https://img.shields.io/badge/-CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 </div>
