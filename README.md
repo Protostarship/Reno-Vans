@@ -74,6 +74,7 @@ In Development:
   ![Adam](https://img.shields.io/badge/Optimizer-Adam-informational)
   ![PPO](https://img.shields.io/badge/Algorithm-Proximal_Policy_Optimization-informational)
   ![TF-IDF](https://img.shields.io/badge/Feature%20Engineering-TF--IDF-blue)
+  ![Student-MLP](https://img.shields.io/badge/Custom%20Implementation-Student--MLP-Custom%20Implementation?color=blue&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik04IDFhNyA3IDAgMTAwIDE0QTcgNyAwIDAwOCAxek03IDRhMSAxIDAgMTEwIDJhMSAxIDAgMDEwLTJ6bTIgOGExIDEgMCAxMTAtMmExIDEgMCAwMTAgMnptMi0zYTEgMSAwIDExMC0yIDEgMSAwIDAxMCAyeiIvPjwvc3ZnPg==)
 
   <!-- Feature Badges -->
   ![Web Development](https://img.shields.io/badge/Web_Development-HTML/CSS/JS-orange)
@@ -101,7 +102,7 @@ In Development:
   ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
   ![CUDA](https://img.shields.io/badge/-CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
   ![Transformers](https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge&logo=transformers&logoColor=white)
-  ![Student-MLP](https://img.shields.io/badge/Student--MLP-Custom_Implementation-blue?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik04IDFhNyA3IDAgMTAwIDE0QTcgNyAwIDAwOCAxek03IDRhMSAxIDAgMTEwIDJhMSAxIDAgMDEwLTJ6bTIgOGExIDEgMCAxMTAtMmExIDEgMCAwMTAgMnptMi0zYTEgMSAwIDExMC0yIDEgMSAwIDAxMCAyeiIvPjwvc3ZnPg==)
+  
 </div>
 
 ###
