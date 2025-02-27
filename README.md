@@ -44,6 +44,7 @@
   ![Contributions](https://img.shields.io/badge/Contributions-Welcome-brightgreen)
   ![Issues](https://img.shields.io/github/issues/yourusername/reno-vans?color=red)
   ![Stars](https://img.shields.io/github/stars/yourusername/reno-vans?style=social)
+  ![Deployment Status](https://img.shields.io/badge/Hugging_Face-In_Development-yellow&logo=huggingface&logoColor=yellow)
 
   <!-- AI/ML & Programming Languages -->
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -56,7 +57,6 @@
   ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
   ![CUDA](https://img.shields.io/badge/-CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
   ![Transformers](https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge&logo=transformers&logoColor=white)
-  ![Deployment Status](https://img.shields.io/badge/Hugging_Face-In_Development-yellow?style=for-the-badge&logo=huggingface&logoColor=white)
   ![Student-MLP](https://img.shields.io/badge/Student--MLP-Custom_Implementation-blue?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik04IDFhNyA3IDAgMTAwIDE0QTcgNyAwIDAwOCAxek03IDRhMSAxIDAgMTEwIDJhMSAxIDAgMDEwLTJ6bTIgOGExIDEgMCAxMTAtMmExIDEgMCAwMTAgMnptMi0zYTEgMSAwIDExMC0yIDEgMSAwIDAxMCAyeiIvPjwvc3ZnPg==)
 </div>
 
