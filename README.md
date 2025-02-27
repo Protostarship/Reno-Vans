@@ -1,7 +1,16 @@
 # Reno-Vans
 > __"Quaestio Tua, Scientiam Renovans."__
 
+###
+<div align="center">
+  <img src="src/repo/svg/bar.svg" alt="Animated Banner" style="width:100%; max-width:1280px; height:auto; margin:20px auto; display:block; padding-top:20px; padding-bottom:20px;">
+</div>
+
+###
+
 <!--
+style path: src/repo/svg/bar.svg
+
 In case of update:
 
 Available:
@@ -30,7 +39,12 @@ In Development:
    - Description:
      - Designed for creative tasks that require accuracy and factual grounding. Reno-Lyra Veritas excels in producing outputs that are both beautiful and correct. Consider it a creative writer or artist with the precision of a fact-checker
 
----
+###
+<div align="center">
+  <img src="src/repo/svg/bar.svg" alt="Animated Banner" style="width:100%; max-width:1280px; height:auto; margin:20px auto; display:block; padding-top:20px; padding-bottom:20px;">
+</div>
+
+###
 
 <div align="center">
   
@@ -90,7 +104,12 @@ In Development:
   ![Student-MLP](https://img.shields.io/badge/Student--MLP-Custom_Implementation-blue?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik04IDFhNyA3IDAgMTAwIDE0QTcgNyAwIDAwOCAxek03IDRhMSAxIDAgMTEwIDJhMSAxIDAgMDEwLTJ6bTIgOGExIDEgMCAxMTAtMmExIDEgMCAwMTAgMnptMi0zYTEgMSAwIDExMC0yIDEgMSAwIDAxMCAyeiIvPjwvc3ZnPg==)
 </div>
 
----
+###
+<div align="center">
+  <img src="src/repo/svg/bar.svg" alt="Animated Banner" style="width:100%; max-width:1280px; height:auto; margin:20px auto; display:block; padding-top:20px; padding-bottom:20px;">
+</div>
+
+###
 
 # AI Ensemble for Webpage Creation Excellence
 ## A Framework for Model Integration in Webpage Development
@@ -803,7 +822,12 @@ The system implements a closed-loop learning mechanism based on its own evaluati
    - Preference model achieves >90% prediction accuracy
    - User satisfaction scores show continuous improvement trend
 
----
+###
+<div align="center">
+  <img src="src/repo/svg/bar.svg" alt="Animated Banner" style="width:100%; max-width:1280px; height:auto; margin:20px auto; display:block; padding-top:20px; padding-bottom:20px;">
+</div>
+
+###
 
 ### Let us know!
 <!-- Direct Report via Email -->
@@ -811,7 +835,12 @@ The system implements a closed-loop learning mechanism based on its own evaluati
 <!-- Contact & Support Badges -->
 ![Contact](https://img.shields.io/badge/Contact-relay.arbiter303%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)
 
----
+###
+<div align="center">
+  <img src="src/repo/svg/bar.svg" alt="Animated Banner" style="width:100%; max-width:1280px; height:auto; margin:20px auto; display:block; padding-top:20px; padding-bottom:20px;">
+</div>
+
+###
 
 <!-- GitHub Repository Link -->
 ![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/Protostarship/reno-vans)
@@ -819,7 +848,20 @@ The system implements a closed-loop learning mechanism based on its own evaluati
 ![Contact](https://img.shields.io/badge/Contact-Form-red?style=for-the-badge&logo=gmail&logoColor=white&link=https://yourcontactform.com)
 ![Report Issues](https://img.shields.io/badge/Report-Issues-yellow?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/Protostarship/reno-vans/issues)
 
----
+###
+<div align="center">
+  <img src="src/repo/svg/bar.svg" alt="Animated Banner" style="width:100%; max-width:1280px; height:auto; margin:20px auto; display:block; padding-top:20px; padding-bottom:20px;">
+</div>
+
+###
 
 <!-- Project Branding -->
 ![Reno-Vans](https://img.shields.io/badge/Reno--Vans-AI_Ensemble_for_Webpage_Creation-4B0082?style=for-the-badge)
+
+###
+<div align="center">
+  <img src="src/repo/svg/bar.svg" alt="Animated Banner" style="width:100%; max-width:1280px; height:auto; margin:20px auto; display:block; padding-top:20px; padding-bottom:20px;">
+</div>
+
+###
+
