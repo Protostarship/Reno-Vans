@@ -1,18 +1,31 @@
 # Reno-Vans
 > __"Quaestio Tua, Scientiam Renovans."__
 
+<!--
+In case of update:
+
+Available:
+![Available](https://img.shields.io/badge/model-available-success)
+
+Unavailable:
+![Unavailable](https://img.shields.io/badge/model-unavailable-red)
+
+In Development:
+![In Development](https://img.shields.io/badge/model-in%20development-yellow)
+-->
+
 ### Models
-1. __Reno-Orion Nous__
+1. __Reno-Orion Nous__ ![In Development](https://img.shields.io/badge/model-in%20development-yellow)
    - Naming Convention: Orion (strength/versatility) + Nous (intellect/understanding).
    - Description:
      - Our flagship general-purpose AI. Reno-Orion Nous combines raw processing power with deep cognitive abilities. It excels in complex reasoning, problem-solving, and handling a wide range of tasks. Think of it as a powerful and deeply intelligent partner.
 
-2. __Reno-Aquila Ingenium__
+2. __Reno-Aquila Ingenium__ ![Unavailable](https://img.shields.io/badge/model-unavailable-red)
    - Naming Convention: Aquila (vision/swiftness) + Ingenium (ingenuity/resourcefulness).
    - Description:
      - Optimized for analytical tasks, data processing, and rapid problem-solving. Reno-Aquila Ingenium is highly efficient and capable of finding innovative solutions. Imagine a very fast and creative problem solver, adept at extracting insights and generating novel approaches.
 
-3. __Reno-Lyra Veritas__
+3. __Reno-Lyra Veritas__ ![Unavailable](https://img.shields.io/badge/model-unavailable-red)
    - Naming Convention: Lyra (harmony/creativity) + Veritas (truth)
    - Description:
      - Designed for creative tasks that require accuracy and factual grounding. Reno-Lyra Veritas excels in producing outputs that are both beautiful and correct. Consider it a creative writer or artist with the precision of a fact-checker
