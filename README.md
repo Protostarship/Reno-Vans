@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="src/repo/image/logo.png" alt="Logo-Banner" width="70%" max-width="485px">
+  <img src="src/repo/image/logo.png" alt="Logo-Banner" width="75%" max-width="485px">
 </div>
 
 # Reno-Vans
