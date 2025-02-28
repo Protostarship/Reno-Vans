@@ -70,6 +70,7 @@ In Development:
   ![Ensemble](https://img.shields.io/badge/Architecture-Ensemble_Refinement-blue)
   ![Zero-Shot](https://img.shields.io/badge/Capability-Zero--Shot_Learning-teal)
   ![Cross-Alignment](https://img.shields.io/badge/Models-Cross--Alignment-8A2BE2)
+  ![IR-NLP](https://img.shields.io/badge/Method-IR--NLP_Reinforcement-orange)
 
   <!-- Algorithms -->
   ![Logistic Regression](https://img.shields.io/badge/Algorithm-Logistic_Regression-informational)
