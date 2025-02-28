@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="src/repo/image/logo.png" alt="Logo-Banner" style="width: 640px; height: 400px; margin: 20px auto; display: block; padding-top: 20px; padding-bottom: 20px; object-fit: cover;">
+  <img src="src/repo/image/logo.png" alt="Logo-Banner" style="width: 640px; height: 340px; margin: 20px auto; display: block; padding-top: 20px; padding-bottom: 20px; object-fit: cover;">
 </div>
 
 # Reno-Vans
