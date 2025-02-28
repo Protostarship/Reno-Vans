@@ -87,8 +87,8 @@ In Development:
 
   <!-- Social/Community -->
   ![Contributions](https://img.shields.io/badge/Contributions-Welcome-brightgreen)
-  ![Issues](https://img.shields.io/github/issues/Protostarship/reno-vans?color=red)
-  ![Stars](https://img.shields.io/github/stars/Protostarship/reno-vans?style=social)
+  ![Issues](https://img.shields.io/github/issues/Protostarship/Reno-Vans?color=red)
+  ![Stars](https://img.shields.io/github/stars/Protostarship/Reno-Vans?style=social)
   ![Deployment Status](https://img.shields.io/badge/Hugging_Face-In_Development-yellow)
 
   <!-- AI/ML & Programming Languages -->
