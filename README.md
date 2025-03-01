@@ -55,58 +55,42 @@ In Development:
   ![Status](https://img.shields.io/badge/Status-In_Development-yellow)
   ![Version](https://img.shields.io/badge/Version-0.1.0-blue)
   ![License](https://img.shields.io/badge/License-CC_BY--NC--ND-lightgrey)
-  ![HuggingFace](https://img.shields.io/badge/HuggingFace-In_Development-yellow)
-  ![Format](https://img.shields.io/badge/Format-SafeTensors-orange)
-
-  <!-- Model Badges -->
-  ![StarCoder2](https://img.shields.io/badge/StarCoder2--3B-Enabled-success)
-  ![Llama3.1](https://img.shields.io/badge/Llama--3.1--8B-Enabled-success)
-  ![CodeGemma](https://img.shields.io/badge/CodeGemma--7B-RLAIF-blueviolet)
-
-  <!-- Paradigms -->
+  
+  <!-- Core Models -->
+  ![StarCoder2](https://img.shields.io/badge/StarCoder2--3B-Primary_Model-success)
+  ![CodeGemma](https://img.shields.io/badge/CodeGemma--2B-Secondary_Model-success)
+  ![Phi-2](https://img.shields.io/badge/Phi--2-Evaluator_Model-blueviolet)
+  ![MiniLM](https://img.shields.io/badge/MiniLM--L12-Embedding_Model-blue)
+  
+  <!-- Core Technologies -->
   ![RLAIF](https://img.shields.io/badge/Learning-RLAIF-blueviolet)
-  ![RLHF](https://img.shields.io/badge/Learning-RLHF_(Optional)-lightpurple)
-  ![Synthetic Data](https://img.shields.io/badge/Data-Synthetic_Generation-green)
-  ![Ensemble](https://img.shields.io/badge/Architecture-Ensemble_Refinement-blue)
-  ![Zero-Shot](https://img.shields.io/badge/Capability-Zero--Shot_Learning-teal)
-  ![Cross-Alignment](https://img.shields.io/badge/Models-Cross--Alignment-8A2BE2)
-  ![IR-NLP](https://img.shields.io/badge/Method-IR--NLP_Reinforcement-orange)
-
-  <!-- Algorithms -->
+  ![Ensemble](https://img.shields.io/badge/Architecture-Ensemble_Learning-blue)
+  ![Quantization](https://img.shields.io/badge/Optimization-Mixed_Precision-green)
+  
+  <!-- Main Features -->
+  ![Code Generation](https://img.shields.io/badge/Feature-Code_Generation-orange)
+  ![Web Development](https://img.shields.io/badge/Domain-Web_Development-orange)
+  ![Multi-metric Evaluation](https://img.shields.io/badge/Evaluation-Multi--metric-teal)
+  
+  <!-- Technical Implementation -->
   ![Logistic Regression](https://img.shields.io/badge/Algorithm-Logistic_Regression-informational)
-  ![KNN](https://img.shields.io/badge/Algorithm-K--Nearest_Neighbors-informational)
-  ![Naive Bayes](https://img.shields.io/badge/Algorithm-Naive_Bayes-informational)
-  ![Adam](https://img.shields.io/badge/Optimizer-Adam-informational)
-  ![PPO](https://img.shields.io/badge/Algorithm-Proximal_Policy_Optimization-informational)
-  ![TF-IDF](https://img.shields.io/badge/Feature%20Engineering-TF--IDF-blue)
-  ![Student-MLP](https://img.shields.io/badge/Custom%20Implementation-Student--MLP-Custom%20Implementation?color=blue&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik04IDFhNyA3IDAgMTAwIDE0QTcgNyAwIDAwOCAxek03IDRhMSAxIDAgMTEwIDJhMSAxIDAgMDEwLTJ6bTIgOGExIDEgMCAxMTAtMmExIDEgMCAwMTAgMnptMi0zYTEgMSAwIDExMC0yIDEgMSAwIDAxMCAyeiIvPjwvc3ZnPg==)
-
-  <!-- Feature Badges -->
-  ![Web Development](https://img.shields.io/badge/Web_Development-HTML/CSS/JS-orange)
-  ![AI Ensemble](https://img.shields.io/badge/AI-Ensemble_Architecture-lightblue)
-
-  <!-- Performance Metrics -->
-  ![Code Success](https://img.shields.io/badge/Code_Success-Under_Evaluation-yellow)
-  ![UI/UX Quality](https://img.shields.io/badge/UI/UX_Quality-Under_Evaluation-yellow)
-  ![WCAG](https://img.shields.io/badge/Accessibility-WCAG_AA-blue)
-
-  <!-- Social/Community -->
-  ![Contributions](https://img.shields.io/badge/Contributions-Welcome-brightgreen)
-  ![Issues](https://img.shields.io/github/issues/Protostarship/Reno-Vans?color=red)
-  ![Stars](https://img.shields.io/github/stars/Protostarship/Reno-Vans?style=social)
-  ![Deployment Status](https://img.shields.io/badge/Hugging_Face-In_Development-yellow)
-
-  <!-- AI/ML & Programming Languages -->
+  ![KNN](https://img.shields.io/badge/Algorithm-KNN_Similarity-informational)
+  ![TF-IDF](https://img.shields.io/badge/Feature_Engineering-TF--IDF-blue)
+  ![FAISS](https://img.shields.io/badge/Indexing-FAISS-blue)
+  
+  <!-- Optimization -->
+  ![FlashAttention](https://img.shields.io/badge/Optimization-FlashAttention--2-green)
+  ![xFormers](https://img.shields.io/badge/Optimization-xFormers-green)
+  ![KV-Cache](https://img.shields.io/badge/Optimization-KV--Cache-green)
+  
+  <!-- Tech Stack -->
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFAC00?style=for-the-badge&logo=huggingface&logoColor=black)
-  ![SafeTensors](https://img.shields.io/badge/SafeTensors-76B900?style=for-the-badge&logo=pytorch&logoColor=white)
   ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+  ![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFAC00?style=for-the-badge&logo=huggingface&logoColor=black)
   ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-  ![CUDA](https://img.shields.io/badge/-CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-  ![Transformers](https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge&logo=transformers&logoColor=white)
+  
+  <!-- Social -->
+  ![Contributions](https://img.shields.io/badge/Contributions-Welcome-brightgreen)
   
 </div>
 
