@@ -9,4 +9,4 @@ For an in-depth look at our training metrics and mathematical formulations (incl
 
 For an in-depth look at the mathematical formulations used in our training pipeline, please view our LaTeX document:
 
-[![View Metrics Document](https://img.shields.io/badge/View-Metrics_Document-blue)](https://nbviewer.jupyter.org/github/Protostarship/Reno-Vans/blob/src/notebooks/metrics_visualization.pdf)
+[![View Metrics Document](https://img.shields.io/badge/View-Metrics_Document-blue)](src/notebooks/metrics_visualization.pdf)
