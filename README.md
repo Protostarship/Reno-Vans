@@ -28,7 +28,7 @@ In Development:
 -->
 
 ### Models
-1. __Reno-Orion Nous__ ![In Development](https://img.shields.io/badge/model-in%20development-yellow)
+1. __Reno-Orion Nous__ ![Halted](https://img.shields.io/badge/model-unavailable-red)
    - Naming Convention: Orion (strength/versatility) + Nous (intellect/understanding).
    - Description:
      - Our flagship general-purpose AI. Reno-Orion Nous combines raw processing power with deep cognitive abilities. It excels in complex reasoning, problem-solving, and handling a wide range of tasks. Think of it as a powerful and deeply intelligent partner.
